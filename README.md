@@ -1,6 +1,6 @@
 # Hi, I'm Amin ^_^
 
-I am an anything-related-to-coding king of guy! I enjoy coding in different fields, my main field is frontend development and I also do backend, android, and avr microcontroller programming. I also do love trying AI solutions for different problems.
+I am an anything-related-to-coding kind of guy! I enjoy coding in different fields, my main field is frontend development and I also do backend, android, and avr microcontroller programming. I also do love trying AI solutions for different problems.
 
 Besides, I love being in nature or/and cars! 🏞️  🥾 🚗  
 
